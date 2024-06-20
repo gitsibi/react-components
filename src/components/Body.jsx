@@ -1,5 +1,8 @@
-import {imageData} from "../data/ImageData";
-import "../styles/BodyStyle.css"
+// import {imageData} from "../data/ImageData";
+import {imageData} from './components/ImageData';
+import'./components/BodyStyle.css';
+
+// import "../styles/BodyStyle.css"
 function Body()
 {
     return(
