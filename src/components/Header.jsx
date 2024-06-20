@@ -1,4 +1,5 @@
-import "../styles/HeaderStyle.css"
+// import "../styles/HeaderStyle.css"
+import './components/HeaderStyle.css';
 
 function Header()
 {
